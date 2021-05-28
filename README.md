@@ -51,9 +51,11 @@ python window.py
 
 #### 界面下测试
 
-![image-20210528101801175](C:\Users\lishuxuan\AppData\Roaming\Typora\typora-user-images\image-20210528101801175.png)
+![image](https://user-images.githubusercontent.com/53803390/119920724-60d1ce80-bf9f-11eb-903a-62147bec57cd.png)
+![image](https://user-images.githubusercontent.com/53803390/119920743-66c7af80-bf9f-11eb-9cb4-bc177fde5ee3.png)
+![image](https://user-images.githubusercontent.com/53803390/119920760-6d562700-bf9f-11eb-92c8-997620cc7f8f.png)
+![image](https://user-images.githubusercontent.com/53803390/119920770-71824480-bf9f-11eb-992f-44f03364c3d1.png)
 
-![image-20210528101813120](C:\Users\lishuxuan\AppData\Roaming\Typora\typora-user-images\image-20210528101813120.png)
 
 
 
