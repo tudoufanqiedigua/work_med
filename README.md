@@ -18,7 +18,7 @@ work_med
 ├─ window.py # UI界面
 ├─ test_model.py # 模型测试
 ├─ train_model.py # 模型训练
-└─ readme.md 
+└─ README.md 
 ```
 
 ### 使用
