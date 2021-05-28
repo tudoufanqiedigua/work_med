@@ -47,7 +47,7 @@ python window.py
 
 #### 图形化界面
 
-![image-20210528101630320](C:\Users\lishuxuan\AppData\Roaming\Typora\typora-user-images\image-20210528101630320.png)
+![image](https://user-images.githubusercontent.com/53803390/119920669-4ac40e00-bf9f-11eb-9e8b-f418fda6bd0d.png)
 
 #### 界面下测试
 
