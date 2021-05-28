@@ -1,5 +1,5 @@
 # work_med
-# AI药材识别
+## AI药材识别
 
 ### 赛题背景和要求
 
@@ -17,7 +17,7 @@ work_med
 ├─ models # 模型
 ├─ window.py # UI界面
 ├─ test_model.py # 模型测试
-├─train_model.py # 模型训练
+├─ train_model.py # 模型训练
 └─ readme.md 
 ```
 
